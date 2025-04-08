@@ -1,0 +1,6 @@
+site/
+├── index.html
+├── hobby.html
+├── travel.html
+└── files/
+    └── resume.pdf (будь-який файл, який ти завантажиш)
