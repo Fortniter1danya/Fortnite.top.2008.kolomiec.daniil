@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <title>Головна - Мій сайт</title>
+</head>
+<body>
+    <h1>Вітаю на моєму сайті!</h1>
+    <nav>
+        <a href="index.html">Головна</a> |
+        <a href="hobby.html">Мої захоплення</a> |
+        <a href="travel.html">Подорожі</a>
+    </nav>
+    <hr>
+    <p>Цей сайт створено як навчальний проєкт.</p>
+
+    <h2>Про автора</h2>
+    <p>Мене звати <strong>Петренко Іван Іванович</strong>, я студент групи <strong>КН-31</strong>.</p>
+    
+    <h3>Скачати моє резюме:</h3>
+    <a href="files/resume.pdf" download>Завантажити PDF</a>
+</body>
+</html>
